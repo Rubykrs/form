@@ -1,1 +1,1 @@
-[form](https://Rubykrs.github.io/index.html)
+[form](https://Rubykrs.github.io/form/index.html)
